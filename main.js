@@ -1,4 +1,6 @@
 
+//var modal = require("")
+
 
 
 document
@@ -43,7 +45,10 @@ else if(select.value=="-"){
     kostnadLista.push(number)
 }
 else if(select.value=="choose") {
+    // example
+
     alert("Hej välja mellan + / -")
+
 }
 
 
