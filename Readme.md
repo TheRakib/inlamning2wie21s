@@ -32,9 +32,20 @@ Skriver man scripts:-
   main.js -> headtaggen i html filen med  "< script src="./main.js" defer></ script>" 
 
 
-// 11.00
-
 https://teamtreehouse.com/ 
+
 Alt. 
+
 https://www.coursera.org/learn/html-css-javascript-for-web-developers/home/week/1
 
+
+
+// SASS/SCSS:
+
+ variable,
+ nesting
+ mixins
+ extend/inheritence 
+ BEM/ Namngivningskonvention 
+ Mapp/folder Structures
+****************************

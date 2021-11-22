@@ -1,0 +1,14 @@
+.warning {
+    border:2px solid black;
+    height: 20rem; 
+    width: 30rem;
+    color:red;  
+    }
+.section-2{
+    @extend .warning;
+}
+ 
+
+.section_id {
+    color:red;
+}

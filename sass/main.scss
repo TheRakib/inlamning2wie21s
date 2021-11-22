@@ -1,9 +1,7 @@
-* {
-    margin:0;
-    padding: 0;
-    box-sizing: border-box;
-}
+@import "./variable.scss";
+@import "./global.scss";
+@import "./partials/button.scss";
+@import "./partials/form.scss";
+@import "./partials/section_1.scss";
+@import "./partials/section_2.scss";
 
-.doColor {
-    color: rebeccapurple;
-}
